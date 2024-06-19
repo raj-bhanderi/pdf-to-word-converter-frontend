@@ -22,7 +22,7 @@ To get a local copy up and running, follow these steps.
 ### Installation
 1. Clone the repo:
     ```sh
-    git clone https://github.com/your-username/pdf-to-word-converter.git
+    git clone https://github.com/raj-bhanderi/pdf-to-word-converter-frontend.git
     ```
 2. Navigate to the project directory:
     ```sh
