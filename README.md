@@ -26,7 +26,7 @@ To get a local copy up and running, follow these steps.
     ```
 2. Navigate to the project directory:
     ```sh
-    cd pdf-to-word-converter
+    cd pdf-to-word-converter-frontend
     ```
 3. Install dependencies:
     ```sh
